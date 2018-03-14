@@ -2,31 +2,31 @@
 
 Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md).
 
-There are two areas you can contribute to:
+There are two areas to which you can contribute:
 
 1. As part of your open source training.
-1. Making the overall mentorship content better.
+1. To improve upon the overall mentorship content.
 
 ## Workflow and Pull Requests
 
-We actively welcome your pull requests.
+We welcome your pull requests. Pull away!
 
-1. Fork the repo and create your branch from `master`.
-1. If you've added code that should be tested, add tests and make sure the test suite passes.
-1. If you've made documentation fixes, we love you!
-1. Ensure tests pass on Circle CI.
+1. Fork the repo and create your own branch from `master`.
+1. If you've added code that should be tested, please add tests and make sure they pass on Circle CI.
+1. If you've worked on or fixed the documentation, we love you!
+1. If you're unsure how Circle CI fits into the flow or your mentorship, please reach out.
 
 ## Testing Code Changes
 
-If you make code changes, we expect you to detail how you tested the changes when your submit the pull request.
+If you make code changes, please detail your tests and what they are when your submit the pull request.
 
 You can send a link to a [JSFiddle](https://jsfiddle.net/) where you show a working test. Here's an example fiddle showing [sum functionality](https://jsfiddle.net/caabernathy/5mz4qusa/).
 
 If you add new functionality, we expect you to add a new test in the `js/__tests__` folder. These are [Jest](http://facebook.github.io/jest/) tests. See existing tests as examples.
 
-If you're not familiar with Jest, and/or you aren't ready to install it, just add a test anyway. The continuous integration tests (via Circle CI) will run to check this. If your tests fail, the PR will not be accepted.
+If you're not familiar with Jest, and/or you aren't ready to install it, please add a test anyway. The continuous integration tests (via Circle CI) will run to check this. If your tests fail, your pull request (or PR) will not be accepted.
 
-Alternatively, you can set up Jest and get brownie points for mentioning in the pull request that you've run the local test suite.
+Want some brownie points? Learn about Jest and mention this in your PR that you've run the local test suite.
 
 **Jest testing setup**
 
